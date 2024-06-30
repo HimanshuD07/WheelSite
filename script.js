@@ -1,5 +1,5 @@
 const febHolidays = [
-    "Dear Baby,",
+    "Dear Babe,",
     "First of all this for you 💕",
     "You're my everything",
     "You are my soulmate",
